@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "stayin",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-stayin-dev-122444-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/0f67181c5a8dc297caf2629eb594d01ade9aae08"
+}
